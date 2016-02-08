@@ -1,0 +1,25 @@
+nav {
+	text-align: center;
+}
+h1 {
+	text-align: center;
+	padding: 10px;
+}
+ul {
+	padding: 10px;
+}
+li {
+	display: inline;
+	padding: 0px 10px 0px 10px;
+}
+img {
+	width:10%;
+	height: auto;
+	float: right;
+	margin: 40px 0px 0px 0px;
+	border: 7px solid black;
+	border-radius: 20px;
+}
+body {
+	margin: 0px 50px 0px 50px;
+}
